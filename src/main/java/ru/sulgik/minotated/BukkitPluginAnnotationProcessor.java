@@ -23,7 +23,7 @@ public class BukkitPluginAnnotationProcessor extends AbstractProcessor {
 
     @Override
     public SourceVersion getSupportedSourceVersion() {
-        return SourceVersion.RELEASE_8;
+        return SourceVersion.RELEASE_15;
     }
 
     @Override

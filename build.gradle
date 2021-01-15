@@ -14,5 +14,5 @@ repositories {
 dependencies {
     implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.2"
     implementation "com.fasterxml.jackson.core:jackson-databind:2.11.2"
-    implementation 'com.github.SuLG-ik:minotated-core:-SNAPSHOT'
+    implementation 'com.github.SuLG-ik:minotated-core:1.0.0-alpha01'
 }

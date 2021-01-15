@@ -1,0 +1,11 @@
+ru/sulgik/minotated/config/PluginConfig.java
+ ru.sulgik.minotated.config.PluginConfig
+ ru.sulgik.minotated.config.PluginConfig$Builder
+ru/sulgik/minotated/Preconditions.java
+ ru.sulgik.minotated.Preconditions
+ru/sulgik/minotated/BukkitPluginAnnotationProcessor.java
+ ru.sulgik.minotated.BukkitPluginAnnotationProcessor
+ru/sulgik/minotated/config/ConfigReducer.java
+ ru.sulgik.minotated.config.ConfigReducer
+ru/sulgik/minotated/config/BukkitPluginConfigReducer.java
+ ru.sulgik.minotated.config.BukkitPluginConfigReducer
